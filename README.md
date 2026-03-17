@@ -1,2 +1,2 @@
-# mi-primer-pull
+# Repositorio para practicar Git pull
 Practicando pull en github
